@@ -1,0 +1,19 @@
+.addressbar h2{
+text-transform: uppercase;
+margin-bottom: 20px;
+text-align: center;
+
+}
+.addressbar p{margin-bottom: 20px;}
+.card img{
+	width:500px;
+}
+.card-body h5{
+	color:#c0392b;
+}
+.row{
+	background-color:#7f8c8d;
+}
+.row2 h2{
+	color:#7f8c8d;
+}
